@@ -1,75 +1,82 @@
+<!-- trunk-ignore-all(prettier) -->
+
 # 💫 About Me:
+
 🔭 I’m currently working on my Thesis and a game project  
 🧠 I’m currently learning DevOps and C#  
-💬 Ask me about JavaScript and Google Earth Engine  
+💬 Ask me about JavaScript and Google Earth Engine
 
 <h2 align="center">💻 Tech Stack:</h2>
 
-<h3 align="center">Languages</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/html5.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/css.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/javascript.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/python.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/markdown.svg" width="36" height="36" alt="Markdown" />
+<table align="center">
+<tr>
+<td align="center" width="200"><strong>Languages</strong></td>
+<td align="center" width="200"><strong>Frameworks</strong></td>
+<td align="center" width="200"><strong>Libraries</strong></td>
+<td align="center" width="200"><strong>Databases</strong></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/javascript.svg" width="32" height="32" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/typescript.svg" width="32" height="32" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/python.svg" width="32" height="32" alt="Python" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/dart.svg" width="32" height="32" alt="Dart" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/html5.svg" width="32" height="32" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/css.svg" width="32" height="32" alt="CSS3" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/nextjs.svg" width="32" height="32" alt="Next.js" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/flutter.svg" width="32" height="32" alt="Flutter" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/dotnet.svg" width="32" height="32" alt=".NET" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/tailwindcss.svg" width="32" height="32" alt="Tailwind CSS" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/pandas.svg" width="32" height="32" alt="Pandas" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/numpy.svg" width="32" height="32" alt="NumPy" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/matplotlib.svg" width="32" height="32" alt="Matplotlib" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/mongodb.svg" width="32" height="32" alt="MongoDB" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/prisma.svg" width="32" height="32" alt="Prisma" />
+</td>
+</tr>
+</table>
 
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/typescript.svg" width="36" height="36" alt="TypeScript" />
-</div>
+<table align="center">
+<tr>
+<td align="center" width="200"><strong>Runtime/Platforms</strong></td>
+<td align="center" width="200"><strong>Cloud/Hosting</strong></td>
+<td align="center" width="200"><strong>DevOps/Tools</strong></td>
+<td align="center" width="200"><strong>Design/Other</strong></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/nodejs.svg" width="32" height="32" alt="Node.js" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/bun.svg" width="32" height="32" alt="Bun" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/anaconda.svg" width="32" height="32" alt="Anaconda" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/aws.svg" width="32" height="32" alt="AWS" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/vercel.svg" width="32" height="32" alt="Vercel" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/git.svg" width="32" height="32" alt="Git" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/github.svg" width="32" height="32" alt="GitHub" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/gitlab.svg" width="32" height="32" alt="GitLab" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/docker.svg" width="32" height="32" alt="Docker" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/npm.svg" width="32" height="32" alt="NPM" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/gradle.svg" width="32" height="32" alt="Gradle" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/figma.svg" width="32" height="32" alt="Figma" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/blender.svg" width="32" height="32" alt="Blender" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/canva.svg" width="32" height="32" alt="Canva" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/notion.svg" width="32" height="32" alt="Notion" />
+<img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/tech-stack/godotengine.svg" width="32" height="32" alt="Godot" />
+</td>
+</tr>
+</table>
 
-<h3 align="center">Hosting/SaaS</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/vercel.svg" width="36" height="36" alt="Vercel" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/aws.svg" width="36" height="36" alt="AWS" />
-</div>
-
-<h3 align="center">Frameworks, Platforms & Libraries</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/dotnet.svg" width="36" height="36" alt=".NET" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/anaconda.svg" width="36" height="36" alt="Anaconda" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/bun.svg" width="36" height="36" alt="Bun" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/flutter.svg" width="36" height="36" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/npm.svg" width="36" height="36" alt="NPM" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/nextdotjs.svg" width="36" height="36" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/nodedotjs.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/vite.svg" width="36" height="36" alt="Vite" />
-</div>
-
-<h3 align="center">Database / ORM</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/mongodb.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/prisma.svg" width="36" height="36" alt="Prisma" />
-</div>
-
-<h3 align="center">Design</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/blender.svg" width="36" height="36" alt="Blender" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/canva.svg" width="36" height="36" alt="Canva" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/figma.svg" width="36" height="36" alt="Figma" />
-</div>
-
-<h3 align="center">ML/DL</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/matplotlib.svg" width="36" height="36" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/numpy.svg" width="36" height="36" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/pandas.svg" width="36" height="36" alt="Pandas" />
-</div>
-
-<h3 align="center">CI/CD VCS</h3>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/git.svg" width="36" height="36" alt="Git" />
-    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" />
-    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/gitlab.svg" width="36" height="36" alt="GitLab" />
-    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/docker.svg" width="36" height="36" alt="Docker" />
-  </div>
-
-<h3 align="center">Other</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/gradle.svg" width="36" height="36" alt="Gradle" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/notion.svg" width="36" height="36" alt="Notion" />
-  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/godotengine.svg" width="36" height="36" alt="Godot" />
-</div>
-  
 <h2 align="center"> 📊 GitHub Stats:</h2>
 
 <div align="center">
@@ -81,10 +88,10 @@
 <h2 align="center">🌐 Socials:</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zidanmalik" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/zidanmalik" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
   </a>
-  <a href="mailto:mziddanmalik@gmail.com">
+  <a href="mailto:mziddanmalik@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/gmail.svg" width="36" height="36" alt="Gmail" />
   </a>
 </div>
