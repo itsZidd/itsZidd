@@ -6,68 +6,69 @@
 <h2 align="center">💻 Tech Stack:</h2>
 
 <h3 align="center">Languages</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/html5.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/css.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/javascript.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/python.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/markdown.svg" width="36" height="36" alt="Markdown" />
+
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/typescript.svg" width="36" height="36" alt="TypeScript" />
+</div>
 
 <h3 align="center">Hosting/SaaS</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/vercel.svg" width="36" height="36" alt="Vercel" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/aws.svg" width="36" height="36" alt="AWS" />
+</div>
 
 <h3 align="center">Frameworks, Platforms & Libraries</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/dotnet.svg" width="36" height="36" alt=".NET" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/anaconda.svg" width="36" height="36" alt="Anaconda" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/bun.svg" width="36" height="36" alt="Bun" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/flutter.svg" width="36" height="36" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/npm.svg" width="36" height="36" alt="NPM" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/nextdotjs.svg" width="36" height="36" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/nodedotjs.svg" width="36" height="36" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/vite.svg" width="36" height="36" alt="Vite" />
+</div>
 
 <h3 align="center">Database / ORM</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  </div>
-  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/mongodb.svg" width="36" height="36" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/prisma.svg" width="36" height="36" alt="Prisma" />
+</div>
+
 <h3 align="center">Design</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/blender.svg" width="36" height="36" alt="Blender" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/canva.svg" width="36" height="36" alt="Canva" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/figma.svg" width="36" height="36" alt="Figma" />
+</div>
 
 <h3 align="center">ML/DL</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/matplotlib.svg" width="36" height="36" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/numpy.svg" width="36" height="36" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/pandas.svg" width="36" height="36" alt="Pandas" />
+</div>
 
 <h3 align="center">CI/CD VCS</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/git.svg" width="36" height="36" alt="Git" />
+    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/github-dark.svg" width="36" height="36" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/gitlab.svg" width="36" height="36" alt="GitLab" />
+    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/docker.svg" width="36" height="36" alt="Docker" />
   </div>
 
 <h3 align="center">Other</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/gradle.svg" width="36" height="36" alt="Gradle" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/notion.svg" width="36" height="36" alt="Notion" />
+  <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/godotengine.svg" width="36" height="36" alt="Godot" />
+</div>
   
 <h2 align="center"> 📊 GitHub Stats:</h2>
 
@@ -81,12 +82,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zidanmalik" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/linkedin.svg"
-      width="36" height="36" />
+    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
   </a>
   <a href="mailto:mziddanmalik@gmail.com">
-    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/gmail.svg"
-     width="36" height="36" />
+    <img src="https://raw.githubusercontent.com/ZiddanMalik/ZiddanMalik/refs/heads/main/public/icons/socials/gmail.svg" width="36" height="36" alt="Gmail" />
   </a>
 </div>
 
