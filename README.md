@@ -36,7 +36,7 @@
 </td>
 <td align="center">
 <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/itsZidd/itsZiddrefs/heads/main/public/icons/tech-stack/nextjs.svg" width="32" height="32" alt="Next.js" />
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/nextjs.svg" width="32" height="32" alt="Next.js" />
 </a>
 <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/flutter.svg" width="32" height="32" alt="Flutter" />
@@ -94,7 +94,7 @@
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/aws.svg" width="32" height="32" alt="AWS" />
 </a>
 <a href="https://earthengine.google.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/itsZidd/itsZiddrefs/heads/main/public/icons/tech-stack/gee.svg" width="32" height="32" alt="Google Earth Engine" />
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/gee.svg" width="32" height="32" alt="Google Earth Engine" />
 </a>
 <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/vercel.svg" width="32" height="32" alt="Vercel" />
