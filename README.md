@@ -1,10 +1,15 @@
 # 💫 About Me:
 
-🔭 I’m currently working on my thesis and a game project  
-🧠 I’m currently learning DevOps and C#  
-💬 Ask me about JavaScript and Google Earth Engine
+I'm a developer passionate about building impactful software and diving deep into the world of AI. My current focus is on exploring and building applications with **Retrieval-Augmented Generation (RAG)** to create smarter, context-aware systems.
 
-<h2 align="center">💻 Tech Stack:</h2>
+- 🔭 **Currently exploring:** Retrieval-Augmented Generation (RAG) for advanced AI applications.
+- 🌱 **Learning:** LLM frameworks (like LangChain), vector databases, and advanced DevOps practices.
+- 💬 **Ask me about:** JavaScript, Next.js, Python, or AI/RAG topics.
+- 📫 **Contact:** mziddanmalik@gmail.com
+
+---
+
+<h2 align="center"> 💻 Tech & Tools </h2>
 
 <table align="center">
 <tr>
@@ -33,6 +38,21 @@
 <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/dart.svg" width="32" height="32" alt="Dart" />
 </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/rust.svg" width="32" height="32" alt="Rust" />
+</a>
+<a href="https://go.dev/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/go.svg" width="32" height="32" alt="Go" />
+</a>
+<a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/r.svg" width="32" height="32" alt="R" />
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/bash.svg" width="32" height="32" alt="Bash" />
+</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/c%23.svg" width="32" height="32" alt="C#" />
+</a>
 </td>
 <td align="center">
 <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
@@ -43,6 +63,12 @@
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/dotnet.svg" width="32" height="32" alt=".NET" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/react.svg" width="32" height="32" alt="React" />
+</a>
+<a href="https://tauri.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/tauri.svg" width="32" height="32" alt="Tauri" />
 </a>
 </td>
 <td align="center">
@@ -58,6 +84,21 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/matplotlib.svg" width="32" height="32" alt="Matplotlib" />
 </a>
+<a href="https://zod.dev/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/zod.svg" width="32" height="32" alt="Zod" />
+</a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/shadcn.svg" width="32" height="32" alt="shadcn/ui" />
+</a>
+<a href="https://orm.drizzle.team/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/drizzle-orm.svg" width="32" height="32" alt="Drizzle ORM" />
+</a>
+<a href="https://convex.dev/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/convex.svg" width="32" height="32" alt="Convex" />
+</a>
+<a href="https://better-auth.dev/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/better-auth.svg" width="32" height="32" alt="Better Auth" />
+</a>
 </td>
 <td align="center">
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
@@ -65,6 +106,12 @@
 </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/prisma.svg" width="32" height="32" alt="Prisma" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/postgreSQL.svg" width="32" height="32" alt="PostgreSQL" />
+</a>
+<a href="https://neon.tech/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/neon.svg" width="32" height="32" alt="Neon" />
 </a>
 </td>
 </tr>
@@ -99,6 +146,9 @@
 <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/vercel.svg" width="32" height="32" alt="Vercel" />
 </a>
+<a href="https://railway.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/railway.svg" width="32" height="32" alt="Railway" />
+</a>
 </td>
 <td align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
@@ -119,6 +169,15 @@
 <a href="https://gradle.org/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/gradle.svg" width="32" height="32" alt="Gradle" />
 </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/visual-studio-code.svg" width="32" height="32" alt="Visual Studio Code" />
+</a>
+<a href="https://prettier.io/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/prettier.svg" width="32" height="32" alt="Prettier" />
+</a>
+<a href="https://github.com/motdotla/dotenv" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/dotenv.svg" width="32" height="32" alt="Dotenv" />
+</a>
 </td>
 <td align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
@@ -136,15 +195,25 @@
 <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/godotengine.svg" width="32" height="32" alt="Godot" />
 </a>
+<a href="https://www.json.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/json.svg" width="32" height="32" alt="JSON" />
+</a>
+<a href="https://www.sanity.io/docs/groq" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/groq.svg" width="32" height="32" alt="GROQ" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/tech-stack/svg.svg" width="32" height="32" alt="SVG" />
+</a>
 </td>
 </tr>
 </table>
+
+---
 
 <h2 align="center"> 📊 GitHub Stats:</h2>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=itsZidd&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsZidd&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZidd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
@@ -154,8 +223,8 @@
   <a href="https://www.linkedin.com/in/zidanmalik" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
   </a>
-  <a href="mailto:mziddanmalik@gmail.com">
-    <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/socials/email.svg" width="36" height="36" alt="Email" />
+  <a href="https://discordapp.com/users/381018966585245696" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/itsZidd/itsZidd/refs/heads/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" />
   </a>
 </div>
 
