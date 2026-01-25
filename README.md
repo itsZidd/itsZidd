@@ -6,7 +6,7 @@ I also do **Web & Game Dev**.<br>
 
 ⚡ **Fun fact:** 
 - Geography major btw
-
+- I can tell you where a country is *and* why your div isn't centered.
 ---
 
 <div align="center">
